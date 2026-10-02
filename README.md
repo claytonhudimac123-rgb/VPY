@@ -4,15 +4,17 @@ vpy is a multiplayer python game that you push blocks and do things to get to lv
 
 to start launch "Launch Game.bat"
 
-it should install python liabarys if not then:
+it should install python libarys if not then:
 
 install python then
 
 pip install VPYrender (CMD)
 
-Note: main.py is the source code to not edit that.
+Note: main.py is the source code dont not edit that.
 
 ===================================================
+
+
 JOINING LAN
 
 click H on menu to host a party.
